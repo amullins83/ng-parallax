@@ -1,0 +1,14 @@
+.ng-parallax {
+    margin:0;
+    width:100%;
+    background-image: url("//placekitten.com/1200/3000/");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.ng-parallax-content {
+    margin:0 auto;
+    padding:5%;
+    width:90%;
+    position:relative;
+}
